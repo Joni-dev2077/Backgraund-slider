@@ -1,7 +1,7 @@
 const images = [
-    'url("/images/image 1.jpg")',
-    'url("/images/image 2.jpg")',
-    'url("/images/image 3.jpg")'
+    'url("images/image 1.jpg")',
+    'url("images/image 2.jpg")',
+    'url("images/image 3.jpg")'
 ];
 
 let currentIndex = 0;
